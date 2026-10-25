@@ -21,10 +21,3 @@
 | **`.github/workflows/build-apk.yml`** | Automated GitHub Actions CI/CD that builds & signs **`ApnaGana.apk`** |
 
 ---
-
-## 🚀 How to Build `ApnaGana.apk` on GitHub
-
-1. Create a new GitHub repository named **`ApnaGana`**.
-2. Extract **`ApnaGana.zip`** and push all files (or upload `my_music.html`, `logo.png`, and `.github/workflows/build-apk.yml`).
-3. Open the **Actions** tab on GitHub and run **Build ApnaGana Android APK**.
-4. Download your signed **`ApnaGana-Android-APK`** from the workflow Artifacts!
