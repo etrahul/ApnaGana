@@ -1,0 +1,8 @@
+ApnaGana ("Your Music, Your Vibe.") is a professional, open-source online music streamer for Android & Web built on the multi-module Metrolist architecture:
+- :innertube — Reverse-engineered YouTube Music internal Android/VR API (youtubei/v1)
+- :lrclib — Time-synced LRC lyrics engine
+- :kugou — Fallback synced lyrics provider
+- :betterlyrics — Word-by-word animated karaoke lyrics
+- :lastfm — Real-time track scrobbling
+- :shazamkit — Audio recognition & song identifier
+- Pro 5-Band Equalizer & Bass Boost + Real-Time Listen Together Rooms
